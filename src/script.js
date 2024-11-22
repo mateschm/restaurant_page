@@ -1,6 +1,7 @@
 import "./stylesheet.css";
 import {home} from "./home";
-import {about} from "./about"
+import {about} from "./about";
+import {menu} from "./menu";
 
 home();
 
