@@ -52,6 +52,11 @@ button:hover {
 #content>img {
     height: 300px;
     border-radius: 20px;
+    margin: 20px;
+}
+
+p {
+    margin: 0;
 }
 
 

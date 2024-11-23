@@ -12,7 +12,7 @@ const about = function () {
     content.appendChild(image);
 
     const paragraph2 = document.createElement(`div`);
-    paragraph2.innerHTML = `<p>You can find us here:<br>4275 Isleta Blvd SW<br>Albuquerque, NM 87105, USA</p>`;
+    paragraph2.innerHTML = `<p>You can find us here:<br>4275 Isleta Blvd SW<br>Albuquerque, NM 87105, USA<br><br>Phone:<br>(505) 877-2727</p>`;
     const image2 = document.createElement(`img`);
     image2.src = directions;
     content.appendChild(paragraph2);

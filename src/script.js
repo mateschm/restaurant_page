@@ -16,6 +16,9 @@ navButtons.forEach((button) => {
             case `ABOUT`:
                 about();
                 break;
+            case `MENU`:
+                menu();
+                break;
         }
     });
 });

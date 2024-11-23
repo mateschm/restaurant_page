@@ -8,7 +8,6 @@ const home = function () {
     const paragraph = document.createElement(`p`);
     paragraph.textContent = `Los Pollos Hermanos is a family friendly restaurant with Mexican cuisine. Enjoy!`;
     const image = document.createElement(`img`);
-    image.setAttribute(`class`, `building`);
     image.src = building;
     content.appendChild(header);
     content.appendChild(paragraph);
